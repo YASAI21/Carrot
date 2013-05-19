@@ -1,4 +1,4 @@
-arrot
+Carrot
 ======
 
-JenkinsBGM再生
+Jenkinsビルド時にディレクトリからランダムにBGM再生
